@@ -1,0 +1,7 @@
+Electrocardiograms (ECGs) are fundamental in today's medicine, with at least 300 million conducted globally each year. These records provide a valuable opportunity to detect potential cardiac anomalies, improve diagnoses, and anticipate the onset of symptoms through a meticulous analysis of complex patterns.
+
+Artificial intelligence (AI) is revolutionizing medical practice by enabling us to process vast amounts of data and develop precise predictive models to interpret ECGs. However, we face notable challenges in implementation, such as result validation by medical experts, information neutrality, patient privacy protection, and the need for a clear interpretation of algorithm results.
+
+The primary goal is not to delegate medical decision-making to technology but to leverage AI as an additional tool to enhance clinical practice. It is essential to derive knowledge from these cardiac records to enrich the field of medicine. Transparency in AI-generated diagnoses is key to building trust among both medical professionals and patients, ensuring ethical and appropriate use of this technology in healthcare.
+
+We will analyze various data mining approaches and algorithms with the aim of finding the most accurate model possible. While finding the most accurate model is important, our top priority is to provide a comprehensible explanation that medical professionals can easily understand and validate based on attributes within their area of expertise, rather than relying solely on calculations or probabilities that may be challenging to explain.
